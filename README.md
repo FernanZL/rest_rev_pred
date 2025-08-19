@@ -1,4 +1,4 @@
-# Data Preprocessing and Regression Model Training for Backpack Price.
+# Data Preprocessing and Regression Model Training for Restaurant Revenue.
 
 This proyect consists of data preprocessing and training of a regression model for Kaggle's Restaurant Revenue Predicition competition. You can download the data from the competition's [page](https://www.kaggle.com/c/restaurant-revenue-prediction/data)
 
